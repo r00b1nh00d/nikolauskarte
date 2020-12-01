@@ -1,7 +1,7 @@
 # Nikolaus-Karte
 ## ~avatar avatar @unplugged
 Heute ist deine Kreativität gefragt!<br>
-Erstelle eine elektronische Grußkarte mit dem Calliope mini.
+Erstelle eine elektronische Grußkarte mit dem Calliope mini.<br>
 ![Karte](https://github.com/r00b1nh00d/nikolauskarte/blob/master/NikolausKarte.gif?raw=true)
 
 ## ~ @unplugged
