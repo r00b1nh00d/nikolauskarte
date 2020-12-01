@@ -2,6 +2,7 @@
 ## ~avatar avatar @unplugged
 Heute ist deine Kreativität gefragt!<br>
 Erstelle eine elektronische Grußkarte mit dem Calliope mini.
+![Karte](https://github.com/r00b1nh00d/nikolauskarte/blob/master/NikolausKarte.gif?raw=true)
 
 ## ~ @unplugged
 Du kannst dazu Teile aus deinen bisherigen Programmen nutzen und so Grüße als Text anzeigen, Melodien abspielen lassen oder die RGB-LED leuchten lassen.
